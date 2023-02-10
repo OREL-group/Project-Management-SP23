@@ -19,7 +19,15 @@
   9. Hot Pink
   10. Red
   
+ 
+<p align="center"
+   <b> A Drink at Caffe Paradiso I Enjoyed While Doing This Assignment ☕ </b>
+<p>
+   
+![930D4679-72AD-4F9D-97A5-31D86971FE86_1_105_c](https://user-images.githubusercontent.com/123507761/217706259-e5dd1720-ae46-4aea-8ea1-1e10033b5f08.jpeg)
+
+
   - [x] Add headers
 - [x] Create list
-- [ ] Add photo
+- [x] Add photo
 - [ ] Complete task! :tada:
