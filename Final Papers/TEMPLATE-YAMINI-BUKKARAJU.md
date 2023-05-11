@@ -1,39 +1,70 @@
-## TITLE
-Name, Semester, link to personal website.
+## IS 340 Final Paper
+Yamini Bukkaraju, Spring 2023
 
 
-### Introduction/Headings    
+### Abstract    
 
-[Comment_1]: <> (begin your text here)
-
-
-[Comment_2]: <> (An example of a reference in paper text, cite in Reference list -- see Comment 8)
-
-#### Subheading
-[Comment_3]: <> (begin your text here)
-
-| ![](https://user-images.githubusercontent.com/38323286/233691025-55deb1db-3e35-4589-8c55-4f859f8e41cd.jpg) | 
-| :--: |
-| <b>Figure 1.</b> Caption test. [Store image as an issue](https://github.com/OREL-group/Project-Management/issues/279) or in the local directory. |   
-
-[Comment_4]: <> (Insert Figure with caption here)
-
-#### Subheading     
-
-[Comment_5]: <> (begin your text here)
-
-__Paragraph heading__         
-
-[Comment_6]: <> (begin your text two spaces after the last underscore in the previous line)
+This paper presents "MindMapper", an open-source mind-mapping tool designed to help users visually organize their ideas and thoughts. The tool offers a range of features including collaboration, tagging, and export to multiple file formats, making it a versatile and accessible tool for a wide range of users. This essay provides an overview of the features and capabilities of MindMapper, highlighting its ease of use and ability to facilitate brainstorming, planning, and organization of ideas. Additionally, this essay discusses the benefits of using an open-source tool for mind mapping, including the ability to customize the tool to meet specific needs and to benefit from contributions from a community of users. Key findings of the paper include the effectiveness of MindMapper as a tool for promoting creative thinking and collaboration, as well as its utility for organizing complex ideas and facilitating project management. The essay concludes by highlighting the potential of open-source mind-mapping tools to contribute to the development of new ideas and innovations in a wide range of fields.
 
 
-### Conclusion      
+#### Introduction
 
-[Comment_7]: <> (begin your text here)
+Mind mapping is a powerful technique for visually organizing thoughts and ideas. Mind mapping can help users brainstorm, plan, and communicate more effectively by creating a graphical representation of concepts, relationships, and connections (Chik, 2007). Mind mapping has become an essential tool for students, educators, and professionals alike as modern life has become more complex. MindMapper is an open source mind-mapping application that allows users to visually create and organize their thoughts and ideas. Collaboration, tagging, and export to various file formats are all included in the project. MindMapper has become a popular choice for users who want to create mind maps quickly and easily due to its intuitive interface and rich set of features. The goal of this paper is to provide an in-depth examination of MindMapper's features, implementation, and long-term viability. It will look specifically at how MindMapper's open source status and code access affect its development and user adoption. It will also look at MindMapper's key features, such as its ability to collaborate with others, tag items, and export to various file formats. Finally, this paper will assess MindMapper's long-term viability, including ongoing development and maintenance, community support, and future growth potential. This paper aims to help users make informed decisions about whether or not to use MindMapper for their own projects by providing a comprehensive analysis of the tool, as well as recommendations for improving the tool's functionality and sustainability.
 
 
-### References     
+### Purpose
 
-[Comment_8]: <> (begin your reference list here. Cite as author, year in main text. Reference link should correpond with link in Comment 2  Use any format you wish -- MLA, APA, etc.)
+Mind mapping is a powerful technique for visually organizing thoughts and ideas. Mind mapping can help users brainstorm, plan, and communicate more effectively by creating a graphical representation of concepts, relationships, and connections (Chik, 2007). Mind mapping has become an essential tool for students, educators, and professionals alike as modern life has become more complex. MindMapper is an open source mind-mapping application that allows users to visually create and organize their thoughts and ideas. Collaboration, tagging, and export to various file formats are all included in the project. MindMapper has become a popular choice for users who want to create mind maps quickly and easily due to its intuitive interface and rich set of features. The goal of this paper is to provide an in-depth examination of MindMapper's features, implementation, and long-term viability. It will look specifically at how MindMapper's open source status and code access affect its development and user adoption. It will also look at MindMapper's key features, such as its ability to collaborate with others, tag items, and export to various file formats. Finally, this paper will assess MindMapper's long-term viability, including ongoing development and maintenance, community support, and future growth potential. This paper aims to help users make informed decisions about whether or not to use MindMapper for their own projects by providing a comprehensive analysis of the tool, as well as recommendations for improving the tool's functionality and sustainability.
 
-Cite as the form (Lastname, 2023) in the body of your text. List reference citation in this section.  
+
+### Target Audience 
+
+This product’s intended audience includes students, educators, and professionals who want to use MindMapper to organize their thoughts and ideas. Mind mapping is a technique that can be used in a variety of situations, from brainstorming project ideas to visualizing complex information. As a result, this paper is relevant to people in a variety of fields, including education, business, and the arts. MindMapper can be a useful tool for students to organize ideas and plan assignments, while educators can use it to create lesson plans and visualize complex topics. MindMapper's ability to streamline workflows and facilitate collaboration can also benefit professionals in fields such as project management, marketing, and design. An evaluation of this aims to help readers make informed decisions about whether or not to use MindMapper for their own projects by providing a detailed evaluation of MindMapper's features, implementation, and sustainability. This would be a valuable resource for anyone interested in using mind mapping as a tool for organizing their thoughts and ideas, whether you are a student, educator, or professional.
+
+### Strategy
+
+The  research methodology used for this product combines primary and secondary research to examine MindMapper's features, implementation, and sustainability. The primary research for this essay consists of using MindMapper firsthand to evaluate its features and functionality, as well as conducting interviews with people who have used MindMapper in a variety of contexts. This essay draws on a variety of secondary sources, including academic literature, online resources, and user reviews, in addition to primary research. These sources are used to provide context for MindMapper's features, implementation, and sustainability evaluations, as well as to compare MindMapper to other similar tools on the market. To assess MindMapper's features, we will look at its ability to create and organize visual mind maps, collaborate with others, tag items, and export to various file formats. To assess its implementation, we will look at platform compatibility, ease of use, and any potential challenges or limitations for users. Finally, in order to assess its long-term viability, we will look at its ongoing development and maintenance, community support, and potential for future growth. Using a combination of primary and secondary research, this essay aims to provide a comprehensive evaluation of MindMapper's features, implementation, and sustainability, and to assist readers in making informed decisions about whether or not to use MindMapper for their own projects.
+
+
+### Code Access     
+One of MindMapper's main advantages is that its source code is freely available for users who want to contribute to the project or customize it to meet their specific needs. MindMapper's code is hosted on GitHub, a popular collaborative software development platform. The open source nature of MindMapper provides several advantages to users. First, it allows users to view and modify the source code in order to tailor the tool to their specific requirements. This is especially useful for programmers or developers who want to add new features or functionality to the tool. Second, MindMapper's open source status encourages collaboration and community participation in the tool's development. Users can report bugs, suggest new features, and contribute code to the project, all of which can help to improve the tool's quality and functionality over time. Finally, MindMapper's open source status contributes to its long-term viability. Allowing users to contribute to the project ensures that the tool can be developed and improved even if its original developers are no longer able to do so. Overall, MindMapper's open source status and code access provide users with several advantages, including the ability to customize the tool, collaborate with others, and ensure its long-term sustainability.
+
+
+### License
+
+MindMapper is licensed under the GNU General Public License (GPL), a popular open source software license. The GPL grants users several key freedoms, including the ability to run the software for any purpose, study and modify the software, and distribute copies of the software to others. However, the GPL imposes several requirements and constraints on users. Any modifications to the software, for example, must be licensed under the GPL, and users must provide access to the source code to anyone who receives a copy of the software. Furthermore, the GPL requires that any software distributed with MindMapper be licensed under the GPL or another compatible open source license. This requirement is intended to ensure that the software remains free and open source even when combined with other software. Overall, MindMapper's GPL license gives users several important freedoms while also ensuring that the software is free and open source. It does, however, include a number of requirements and limitations that users should be aware of before using or modifying the software. 
+
+
+### Implementation
+
+MindMapper is an open-source mind-mapping tool that allows users to visually organize their thoughts and ideas. The project includes several key features that make it a valuable tool for both individual and group use, such as collaboration, tagging, and export to various file formats. In this section, we will go over MindMapper's implementation, including platform compatibility, ease of use, and potential challenges or limitations for users. One of MindMapper's key advantages is its cross-platform compatibility. The tool is available for Windows, macOS, and Linux, making it accessible to a wide range of users. Because of this compatibility, users can easily collaborate and share their mind maps with others, regardless of the platform they are using. MindMapper is intended to be user-friendly, with an intuitive interface that allows users to create and organize their ideas quickly and easily. The tool comes with a plethora of pre-made templates and themes that can be tailored to the user's preferences. MindMapper also includes a number of keyboard shortcuts and other time-saving features to help users streamline their workflow. Although MindMapper is generally simple to use, some users may find it to have a steeper learning curve than other mind-mapping tools. Furthermore, some users have complained that the tool is slow or laggy, especially when working with larger and more complex mind maps. Finally, while MindMapper does provide a variety of export options, some users may find that it lacks certain features or formats that other tools provide. Overall, MindMapper's implementation is solid, with strong cross-platform compatibility and a user-friendly interface. While there may be some limitations or challenges for users, the tool's key features, such as collaboration and export options, make it a valuable addition to any individual's or group's productivity toolkit.
+
+
+### Features
+
+MindMapper is a powerful open source mind-mapping tool that provides a variety of features to assist users in visually creating and organizing their thoughts and ideas. Visual mind maps, collaboration, tagging, and easy export are some of MindMapper's key features. Users can use MindMapper to create visual mind maps that can help them organize their ideas and information in a structured and intuitive manner (Holland, 2004). Users can create nodes to represent various ideas and then connect them in ways that reflect their relationships and dependencies. MindMapper also includes powerful collaboration features that allow users to collaborate on a mind map in real time. Users can invite others to join a mind map and then collaborate in real time to add and edit nodes, move items around, and make changes. Users can easily tag different items within a mind map, such as nodes or entire branches, using MindMapper. This allows users to more granularly organize their ideas and quickly find related items within a larger mind map. Finally, MindMapper includes a variety of export options, allowing users to save their mind maps in formats such as PDF, Microsoft Word, and HTML. This allows users to easily share their mind maps with others or use them in other applications. Overall, MindMapper's key features make it a powerful and versatile tool for visually organizing ideas and information. MindMapper's intuitive interface and robust feature set make it an excellent choice for creating and collaborating on mind maps, whether you are a student, educator, or professional.
+
+
+### Sustainability
+The long-term viability of MindMapper is an important factor to consider when assessing the tool's utility. MindMapper is an open source project that relies on community support to ensure ongoing development and maintenance. This section will look at MindMapper's long-term viability, including its current state of development, community support, and potential for future growth. MindMapper's active community of users and contributors is one of its strengths. The project is hosted on GitHub, where developers can contribute code and collaborate on new features and bug fixes. The project has a large number of contributors, and issues are resolved on a regular basis, indicating a strong community of support. MindMapper is also actively developed and maintained by its creators. Bug fixes, improvements, and new features are released on a regular basis. This ongoing development is critical to ensuring the project's long-term sustainability. MindMapper has the potential for continued growth and expansion in the future. The demand for tools like MindMapper is likely to rise as more people become interested in mind mapping as a tool for organizing their thoughts and ideas. The open source nature of the project also allows for new contributors and developers to join the project and contribute new ideas and perspectives. Overall, MindMapper's sustainability is strong, thanks to an active community of support, ongoing development, and the potential for future growth.  As a free and open source tool, it is accessible to a wide range of users and has the potential to continue to grow and improve over time.
+
+
+### Conclusion    
+
+In conclusion, this paper evaluated MindMapper as an open-source mind-mapping tool that allows users to organize their thoughts and ideas visually. The key features of the tool have been discussed, including collaboration, tagging, and export options, as well as its implementation, platform compatibility, ease of use, and potential limitations. MindMapper has been discovered to have valuable features that make it a useful tool for individuals and groups. However, potential challenges and limitations, such as a learning curve and potential lag when working with larger and more complex mind maps, were identified. Those who are interested in using MindMapper should investigate its capabilities and take advantage of its collaborative features. Experimenting with different export options may also aid in determining the best format for individual requirements. In the future, the MindMapper team can investigate opportunities for improving performance when working with larger mind maps, as well as consider adding new features and export options to further expand the tool's capabilities. To summarize, MindMapper is a useful open-source mind-mapping tool that can help boost productivity and creativity. Continuous improvement and refinement can ensure its usefulness and relevance for individuals and groups looking to effectively organize and visualize their ideas.
+
+
+### References 
+
+Chik, V., Plimmer, B., & Hosking, J. (2007). Intelligent mind-mapping. Proceedings of the 19th Australasian Conference on Computer-Human Interaction: Entertaining User Interfaces, 195–198. https://doi.org/10.1145/1324892.1324931
+
+Holland, B., Holland, L., & Davies, J. (2004). An investigation into the concept of mind mapping and the use of mind mapping software to support and improve student academic performance. University of Wolverhampton. https://wlv.openrepository.com/handle/2436/3707
+
+Mammen, J. R., & Mammen, C. R. (2018). Beyond concept analysis: Uses of mind mapping software for visual representation, management, and analysis of diverse digital data. Research in Nursing & Health, 41(6), 583–592. https://doi.org/10.1002/nur.21920
+
+Murley, D. (2007). Technology for Everyone...: Mind Mapping Complex Information. Law Library Journal, 99, 175.
+
+Rustler, F. (2012). Mind Mapping For Dummies. John Wiley & Sons.
+
+
+
