@@ -1,4 +1,4 @@
-## SkinCares: Open Source Skincare Platform
+## SkinCares: An Open Source Skincare Platform
 Sri Nithya Yeragorla, IS 340 SPRING 2023
 
 
