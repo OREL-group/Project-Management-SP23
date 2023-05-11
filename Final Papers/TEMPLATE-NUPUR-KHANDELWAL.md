@@ -42,7 +42,10 @@ A few next steps for this website will be launching the idea and finding a commu
 Overall, managing this open source website project is an idea that requires thorough research and knowledge on sustainability. Climate change is a pressing issue that this planet faces and consumers can start helping out by having corporations be held accountable. This website will support transparency by highlighting positive companies and revealing tactics of big corporations and how they are contributing to climate change. Using an open source community to bring this idea to life will make it much stronger and allow for businesses to get their name out there. Collaboration and project management skills will allow this website to have a clear track for success and hopefully help companies reduce their carbon footprint. Using GitHub and version control tools will especially be helpful to get multiple perspectives for this website to come to life. Together the community that is formed through this website can reach more stakeholders, consumers, and businesses to contribute to the planet’s health. By taking these project management steps, the website can not only help support companies and consumers sustainable choices but also fix the future of the planet. 
 
 ### References     
+1. “Open Source Project Management: A Complete Guide.” Open Source Project Management: A Complete Guide, www.zenhub.com/guides/open-source-project-management#:~:text=The%20open%20source%20model%20provides,for%20commercial%20products%20and%20services.
+2. Axelrod, Josh. “Corporate Honesty and Climate Change: Time to Own up and Act.” Be a Force for the Future, 26 Feb. 2019, www.nrdc.org/bio/josh-axelrod/corporate-honesty-and-climate-change-time-own-and-act#:~:text=Corporations%20produce%20just%20about%20everything,climate%20change%20was%20officially%20recognized. 
+3. “The Latest Greenwashing Statistics 2023 You Shouldn’t Ignore • Gitnux.” GITNUX, 2 Mar. 2023, blog.gitnux.com/greenwashing-statistics/#:~:text=68%25%20of%20US%20executives%20admit,company’s%20sustainability%20efforts%20were%20genuine. 
+4. 
 
-[Comment_8]: <> (begin your reference list here. Cite as author, year in main text. Reference link should correpond with link in Comment 2  Use any format you wish -- MLA, APA, etc.)
 
-Cite as the form (Lastname, 2023) in the body of your text. List reference citation in this section.  
+ 
