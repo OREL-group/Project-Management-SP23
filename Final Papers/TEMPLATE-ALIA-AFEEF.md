@@ -33,22 +33,42 @@ Throughout all of these initial phases of our project—and beyond, as we work o
 On the external side, in order to maintain the utility and relevance of the platform, we want to push out consistent updates and bug fixes to the platform. These will be pushed out on a reliable schedule, so users encountering an issue are reassured by the fact that they know an update and improvement is always on the way.
 On the internal side, we want to maintain the connection and respect within our community of collaborators. In order to accomplish this we want to maintain weekly check-ins with collaborators on Discord and monthly video conferences with our senior collaborators and project leadership. We would also implement a Code of Conduct in our community, and routinely evaluate any collaborators that we believe may be in violation of this code. 
 
-#### Subheading     
+### Purpose    
 
-[Comment_5]: <> (begin your text here)
-
-__Paragraph heading__         
-
-[Comment_6]: <> (begin your text two spaces after the last underscore in the previous line)
+According to the US Department of Agriculture, approximately 30-40% of the United States’ food supply is wasted every year–and approximately 30% of that food supply waste is attributed to retail and consumer loss (USDA, 2023). Because the United States total food supply is so large, this loss amounts to billions of dollars and billions of pounds of consumable food waste. In contrast to this seemingly excess of our food supply, there is a significant amount of Americans that experience food insecurity. The economic disruption of the Covid-19 pandemic has also exacerbated this problem, “Before the pandemic, the number of families experiencing food insecurity — defined as a lack of consistent access to enough food for an active, healthy life — had been steadily falling. But now, as economic instability and a health crisis takes over, new estimates point to some of the worst rates of food insecurity in the United States in years,” (Silva, 2020). This demonstrates the severity of both the excessive food supply waste and increased need at food pantries within the United States, validating the necessity of my proposed platform. 
+Additionally, I have chosen to emphasize the local connection in this platform is two-fold. First, the ethos of the project is to eliminate waste, support community-building, and support sustainability—trying to create a local-based solution would eliminate the distance between suppliers and food banks, both decreasing the cost and wasteful emissions of the transaction. Second, due to the research I read on the topic of food bank efficiency leading me to discover that food banks that implement local access food distribution and have well developed relationships with suppliers experienced the most success in feeding and sustaining their community during periods of disruption, like during the Covid-19 pandemic (Bublitz et al., 2020). 
 
 
-### Conclusion      
+### Target Audience      
 
-[Comment_7]: <> (begin your text here)
+Our target audience for collaborators will change as our project evolves. As I discussed in the Platform Features and Timeline section, we will first seek collaborators within the Urbana-Champaign community. 
+There are multiple reasons we are choosing to focus on recruiting collaborators within the Urbana-Champaign community. Primarily, we are focusing on individuals within the community because our initial focus will be on creating a pilot program within the Urbana-Champaign community. The time commitment of the first stages of the project will be much greater compared to the level of time commitment after the platform is created and our focus turns more towards maintenance and troubleshooting versus the high level of time commitment when creating this platform from the ground up. Therefore, in the first stages of platform development, it is important for our first group of collaborators to have a vested interest in this community because it will incentivize them to maintain participation within the project. Additionally, the Urbana-Champaign has incredible human capital in terms of computer science and web development talent, and many individuals with this level of human capital and talent are students. This project can be advertised as a dual benefit position to students: a way to add to their resume and display their skills outside of the classroom to potential employers and to connect with the community of Urbana-Champaign beyond just the University and campus community. 
+As our project expands beyond our pilot program, we would like to broaden our collaborator community to any individuals interested in our project. We are extremely interested in working with collaborators with a variety of backgrounds, skill levels, and perspectives. We believe that developing an evolving and inclusive community of collaborators is incredibly important to maintaining the longevity and relevancy of the platform. As the interest of individual collaborators will ebb and flow, we believe that cultivating an inclusive and welcoming community for any interested collaborators will mitigate any potential gaps in skills as the commitment and involvement of specific collaborators will change.
+
+
+### Access and License
+
+Maintaining openness in our project is extremely important to the goals and mission of our project. We want to solve a nationwide problem, and because of the scale and magnitude of the problem we are trying to solve, we want individuals who share the desire to solve this problem to have access to our source-code and be able to use it as they see fit.
+We want our code to be open-source, and will therefore make it available to the public on GitHub. Despite keeping our source code publicly available on GitHub, we do want to impose certain restrictions on the code to protect and maintain the integrity of the original source code. We strongly encourage interested individuals to download our source code and remix, modify, and play with the code from their individually downloaded copy of the source code—but in order to protect the code against any unwanted modifications, we will only make it downloadable and not modifiable. 
+Additionally, to protect our code, we will be implementing the MIT License for our code. The MIT License was selected for our project because it is a permissive enough license that individuals can modify and remix our code, but it also provides a form of protection against any malicious or unwanted use of our code. 
+
+
+### Collaborator Community 
+
+#### Engagement and Continuity 
+
+Fresh Foods is an open-source platform that will involve a community of collaborators to build and maintain. In our initial phases of development, we intend to limit our collaborator community to only those in the region we will be implementing the pilot program–those in the Urbana-Champaign region. As I previously discussed, these individuals are targeted because they have a connection and vested interest in the community who’s problem we are seeking to solve. An additional strength focusing on the Urbana-Champaign community as the talent pool for initial collaborators is that it will allow us to have a high level of engagement with these collaborators. Something we would like to do to promote collaborator engagement is to host in-person meetings to touch base, as well as encourage collaborators to get involved with one another and the community we are seeking to help. In order to facilitate that involvement and engagement, we would try to host events to volunteer at different low-income serving nonprofits in the community. This would give our first collaborators an increased sense of belonging and connection with the community that our platform will initially be designed to serve. We hope that by making engagement with our first local collaborators a priority, this priority will translate to maintaining a high level engagement with our collaborators as the collaborator community grows and we pivot to more online engagement events. 
+As our collaborator base increasingly moves to be geographically diverse and our connection more online based, we will have two engagement focuses. One would be to encourage connection between the collaborator community—we would employ social channels on our Discord Server and also have monthly puzzle or coding challenges, rewarded with small prizes, to help build teamwork and technical skills. We would also like to have our collaborators engage in volunteer work in their community, aligned with our project's mission. I believe that an important part of maintaining continuity and engagement with our collaborators in our project is having them engage in community-building work, as that will truly help them understand the extent that local cooperation and support can help uplift the community–which is the belief at the core of the project.
 
 
 ### References     
 
-[Comment_8]: <> (begin your reference list here. Cite as author, year in main text. Reference link should correpond with link in Comment 2  Use any format you wish -- MLA, APA, etc.)
+Bublitz, Melissa G., et al. “Pandemic Reveals Vulnerabilities in Food Access: Confronting Hunger Amidst a Crisis.” Journal of Public Policy &amp; Marketing, vol. 40, no. 1, 2020, pp. 105–107, https://doi.org/10.1177/0743915620929998. 
 
-Cite as the form (Lastname, 2023) in the body of your text. List reference citation in this section.  
+“Food Loss and Waste.” USDA, www.usda.gov/foodwaste/faqs. Accessed 8 May 2023. 
+
+“How Does a Wedding Registry Work?: The Expert’s Guide - Zola Expert Wedding Advice.” Zola.Com, 26 Aug. 2020, www.zola.com/expert-advice/how-does-a-wedding-registry-work-the-experts-guide. 
+
+“The Open Source Definition.” Open Source Initiative, 22 Feb. 2023, opensource.org/osd/. 
+
+Silva, Christianna. “Food Insecurity In The U.S. By The Numbers.” NPR, 27 Sept. 2020, www.npr.org/2020/09/27/912486921/food-insecurity-in-the-u-s-by-the-numbers. 
