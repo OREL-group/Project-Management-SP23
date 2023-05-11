@@ -4,7 +4,7 @@ Sri Nithya Yeragorla, IS 340 SPRING 2023
 
 ### Abstract Introduction
 
-#### This paper aims to approach the idea of establishing an open source platform dedicated to skincare and connecting skincare enthusiasts. I will be introducing the concept with some background knowledge, the purpose and goals, potential platform tools, the working open, the community, and the timeline. The purpose of this paper is to take my knowledge of project management and open source principles learned from IS 340 and apply it to skincare, which is one of my passions. 
+#### <This paper aims to approach the idea of establishing an open source platform dedicated to skincare and connecting skincare enthusiasts. I will be introducing the concept with some background knowledge, the purpose and goals, potential platform tools, the working open, the community, and the timeline. The purpose of this paper is to take my knowledge of project management and open source principles learned from IS 340 and apply it to skincare, which is one of my passions.>
 
 
 ### Introduction
