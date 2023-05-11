@@ -2,7 +2,7 @@
 Nupur Khandelwal,IS 340 Spring 2023
 
 
-### Introduction/Headings    
+### Introduction  
 
 [Comment_1]: <> (begin your text here)
 
