@@ -1,5 +1,5 @@
 ## EcoFriendlyMarketplace.com: Connecting Consumers to Sustainable Businesses
-Nupur Khandelwal,IS 340 Spring 2023
+Nupur Khandelwal, IS 340 Spring 2023
 
 
 ### Abstract 
