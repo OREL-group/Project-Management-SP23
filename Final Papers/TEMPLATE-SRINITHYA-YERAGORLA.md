@@ -13,7 +13,7 @@ Sri Nithya Yeragorla, IS 340 SPRING 2023
 
 [Comment_4]: <> ()
 
-#### Introduction
+### Introduction
 
 #### In the past few years the skincare industry and market have been exponentially growing - the global skincare market is projected to grow from $100.13 billion in 2021 to $145.82 billion in 2028 at a CAGR (Compound Annual Growth Rate) of 5.52%. In the past year itself, skincare product sales grew by 13% (Fortune Business Insights, 2021).  As you can see this market is very successful due to a variety of reasons. The biggest reason being society becoming more health conscious and reliant on social media/technology. Technology especially plays a big part in this phenomenon. It allows consumers to “discover beauty, share it and shop it” (Automat, 2021). Because skincare has become such a staple in people’s everyday lives, consumers are always looking for information about products and how to better their skincare regimen. This is where the idea of open source comes in. An open source platform dedicated to skincare offers an innovative solution that allows individuals to come together and share their experiences and knowledge on skincare products, routines, and journeys. This platform would benefit skincare enthusiasts by allowing them to have access to free information, catered recommendations, and the support of a like-minded community all from fellow enthusiasts. This platform being open source would allow everyone to input their knowledge and allow for improvements to be continuously made, so it can be a resource for skincare enthusiasts for years to come which judging by the projected market is a viable option. 
 
