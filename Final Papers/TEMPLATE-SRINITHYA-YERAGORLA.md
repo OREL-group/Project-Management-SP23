@@ -14,7 +14,6 @@ Sri Nithya Yeragorla, IS 340 SPRING 2023
 | ![](https://user-images.githubusercontent.com/98144030/237812897-5bf6711f-a519-4841-b28c-8c80d61a6b9d.png)
 | :--: |
 | <b>Figure 1.</b> As you can see the market size is gradually increasing, with the exception of the year 2020 due to the Covid-19 pandemic, indicating that the skincare market looks promising (Fortune Business Insights, 2021).
-[Store image as an issue](https://github.com/OREL-group/Project-Management/issues/322) or in the local directory. |   
 
 ### Purpose and Goals       
 
