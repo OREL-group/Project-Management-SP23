@@ -45,7 +45,10 @@ Overall, managing this open source website project is an idea that requires thor
 1. “Open Source Project Management: A Complete Guide.” Open Source Project Management: A Complete Guide, www.zenhub.com/guides/open-source-project-management#:~:text=The%20open%20source%20model%20provides,for%20commercial%20products%20and%20services.
 2. Axelrod, Josh. “Corporate Honesty and Climate Change: Time to Own up and Act.” Be a Force for the Future, 26 Feb. 2019, www.nrdc.org/bio/josh-axelrod/corporate-honesty-and-climate-change-time-own-and-act#:~:text=Corporations%20produce%20just%20about%20everything,climate%20change%20was%20officially%20recognized. 
 3. “The Latest Greenwashing Statistics 2023 You Shouldn’t Ignore • Gitnux.” GITNUX, 2 Mar. 2023, blog.gitnux.com/greenwashing-statistics/#:~:text=68%25%20of%20US%20executives%20admit,company’s%20sustainability%20efforts%20were%20genuine. 
-4. 
-
-
- 
+4. Am, Jordan Bar, et al. “Consumers Care about Sustainability-and Back It up with Their Wallets.” McKinsey &amp; Company, 6 Feb. 2023, www.mckinsey.com/industries/consumer-packaged-goods/our-insights/consumers-care-about-sustainability-and-back-it-up-with-their-wallets. 
+5. Kucheriavy, Andrew. “Which Technology Is Best for My Website?” Intechnic, 12 Feb. 2018, www.intechnic.com/blog/which-technology-is-right-for-my-website/. 
+6. “What Is ...” Amazon, 1978, aws.amazon.com/what-is/ide/#:~:text=An%20integrated%20development%20environment%20. 
+7. Naik, Vritika. “Importance of Open-Source: How Github Helps You in Contributing More?” Medium, 19 Feb. 2021, medium.com/analytics-vidhya/importance-of-open-source-how-github-helps-you-in-contributing-more-c7687715be3a. 
+8. Asana. “Online Collaboration Tool &amp; Coordination Software • Asana.” Asana, asana.com/uses/team-collaboration. 
+9. Adversarial Collaboration Project, web.sas.upenn.edu/adcollabproject/. 
+10. Tag Team Design. “10 Tips to Have an Amazing and Future-Proof Website.” Tag Team Design, 5 Jan. 2021, www.tagteamdesign.com/10-tips-to-have-an-amazing-and-future-proof-website/. 
