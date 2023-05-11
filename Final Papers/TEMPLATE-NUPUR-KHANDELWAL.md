@@ -2,8 +2,11 @@
 Nupur Khandelwal,IS 340 Spring 2023
 
 
+### Abstract 
+In this paper, I will be talking about an open source project that I am interested in developing, which is a website, EcoFriendlyMarketplace.com, to connect consumers to sustainable businesses. I will be going over the background, purpose of the project, open source project management principles applied, development, and where I see this project going in the future. The purpose of this paper is to apply my learnings from IS 340 and project management principles back into this paper into an idea I’m passionate about and explore how I would apply these principles to make my idea stronger.
+
 ### Introduction  
-hi
+
 
 #### Subheading
 [Comment_3]: <> (begin your text here)
