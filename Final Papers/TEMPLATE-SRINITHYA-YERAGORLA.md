@@ -1,5 +1,5 @@
 ## SkinCares: Open Source Skincare Platform
-Sri Nithya Yeragorla, IS 340 SPRING 2023, link to personal website.
+Sri Nithya Yeragorla, IS 340 SPRING 2023
 
 
 ### Abstract Introduction
