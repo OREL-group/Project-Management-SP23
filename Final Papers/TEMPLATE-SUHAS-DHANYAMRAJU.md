@@ -153,7 +153,7 @@ Developers that are familiar with popular open-source tools and are passionate e
 In order to use open source to our fullest we have to be able to figure out the most structured and effective method to implement open source in our project. In Professor Bradly Alicea's lessons we were able to learn a couple
 of approaches in order to use open source for a project and the steps are as follows: 
 
-There are 6 questions that we have to ask ourselves in order to build the most effective open source implementation for our project (Alicea 2023)
+There are 6 questions that we have to ask ourselves in order to build the most effective open source implementation for our project 
 
 - What is the purpose? 
 - How should members behave? 
@@ -193,6 +193,6 @@ while fostering a collaborative community around the app's development and impro
 
 [Comment_8]: <> (begin your reference list here. Cite as author, year in main text. Reference link should correpond with link in Comment 2  Use any format you wish -- MLA, APA, etc.)
 
-https://www.heavybit.com/library/article/open-source-software-benefits-advantages
+Park, Andrew. “What to Know about Open-Source Software: Benefits and Advantages.” Heavybit, www.heavybit.com/library/article/open-source-software-benefits-advantages. Accessed 11 May 2023. 
+“What Is Waterfall Project Management?” Versatile &amp; Robust Project Management Software, www.wrike.com/project-management-guide/faq/what-is-waterfall-project-management/. Accessed 11 May 2023. 
 
-https://www.wrike.com/project-management-guide/faq/what-is-waterfall-project-management/
