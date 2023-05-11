@@ -46,10 +46,17 @@ In conclusion, an open source skincare platform has the ability to completely ch
 ### References 
 
 Apache License 2.0 explained. Snyk. (2022, January 31). https://snyk.io/learn/apache-license/ 
+
 Djordjevic, M. (2023, March 31). Skin Care Industry Statistics: Smart is beautiful [2023]. Deals On Health. https://dealsonhealth.net/skin-care-industry-statistics/#:~:text=Experts%20predict%20that%20this%20number,being%20in%20the%2082nd%20percentile 
+
 IT Cosmetics Pro Beauty. (2022, February 15). Are “bad skin”, Self Care, & Mental Health Connected? IT Cosmetics. https://www.itcosmetics.com/bad-skin-mental-health-self-care.html 
+
 Skin conditions by the numbers. American Academy of Dermatology. (n.d.). https://www.aad.org/media/stats-numbers 
+
 Skincare market size, share & covid-19 impact analysis, by product (creams, lotions, powders, sprays, and others), packaging type (tube, bottle, Jar, and others), gender (men and women), distribution channel (cosmetic stores, supermarkets/ hypermarkets, online channels, and others), and regional forecasts, 2021 – 2028. Fortune Business Insights. (2021, August). https://www.fortunebusinessinsights.com/skin-care-market-102544 
+
 Technological Advancement in This Industry is a Prominent Trend . (2021). Fortune Business Insights . Retrieved May 11, 2023, from https://www.fortunebusinessinsights.com/skin-care-market-102544. 
+
 Tan, J. K., & Bhate, K. (2015). A global perspective on the epidemiology of acne. The British journal of dermatology, 172 Suppl 1, 3–12. https://doi.org/10.1111/bjd.13462
+
 Why is the skincare market growing at such breakneck speed?. Automat. (2021, October 19). https://automat.ai/resources/skincare-market-growth/#:~:text=According%20to%20GartnerL2%27s%20Q3%20Digital,serums%2C%20treatments%20and%20masks.%E2%80%9D 
