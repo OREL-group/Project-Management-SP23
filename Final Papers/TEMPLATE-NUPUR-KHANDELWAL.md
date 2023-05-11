@@ -3,11 +3,7 @@ Nupur Khandelwal,IS 340 Spring 2023
 
 
 ### Introduction  
-
-[Comment_1]: <> (begin your text here)
-
-
-[Comment_2]: <> (An example of a reference in paper text, cite in Reference list -- see Comment 8)
+hi
 
 #### Subheading
 [Comment_3]: <> (begin your text here)
