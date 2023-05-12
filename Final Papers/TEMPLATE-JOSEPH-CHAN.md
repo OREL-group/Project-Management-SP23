@@ -1,6 +1,7 @@
-**Open-Source Stock Market Analysis Tool**
+## Open-Source Stock Market Analysis Tool
+Joseph Chan, IS 340, Spring 2023
 
-**Abstract:**
+### Abstract:
 
 Investing in the stock market remains challenging for those who lack knowledge or experience within the industry. Crucially analyzing trends within the field is necessary for informed decision making; however proprietary stock market analysis tools are often prohibitively expensive. Open-source software provides a valuable alternative offering comprehensive tools that are freely accessible to everyone. This paper details an open-source stock market analysis tool designed explicitly with accessibility in mind. 
 
@@ -9,7 +10,7 @@ Through analyzing historical data surrounding stocks while also providing detail
 However complex navigating the stock market may seem, technological advancements have provided various solutions, with open-source stock market analysis platforms being one such solution. Leveraging on historical data from the markets, such an app can offer investors insights into trends and behavior critical for informed decision-making. 
 
 
-**Introduction:**
+### Introduction:
 
 
 In this paper, we will outline this platform's key features and discuss how its deployment addresses some of these complex challenges facing our target audience. The purpose of this composition is to provide an evaluation of an open-source stock market analysis tool which has its unique features for assisting investors in making well informed investment decisions. To accomplish this goal effectively we have structured our essay by beginning with a context setting overview on the importance of analyzing stock markets to identify trends and behavior within the larger financial ecosystem. 
@@ -17,7 +18,7 @@ In this paper, we will outline this platform's key features and discuss how its 
 Following that we introduce readers to our analytical resource by outlining several relevant benefits that make it an excellent aid for investors looking for data driven insights and strategic guidance. We then proceed onto exploring various features related to said resource - ranging from target audience considerations through development strategies (including aspects like code access, licensing agreements, community events) before concluding via summarizing primary findings and offering further recommendations for potential research avenues. 
 
 
-**Purpose:**
+### Purpose:
 
 
 For anyone interested in delving into stock market analysis using factual data regardless of whether they're seasoned investors or novices seeking a better understanding of this complex field- the open-source stock market analysis tool under consideration today holds immense promise. However, to truly comprehend just how valuable this resource can be for investors of all types- its crucial to take a closer look at several critical aspects. To begin with gauging how accessible its underlying code is and assessing what kind of license governs it are two key factors in assessing its usability. Additionally evaluating any community events tied to this project may also provide valuable insights into user adoptability rates. 
@@ -27,7 +28,7 @@ Furthermore, another important aspect worth considering is analyzing whether thi
 Nevertheless, there is a steep learning curve associated with understanding market behavior while making sound investment decisions that could fetch attractive returns. The open-source stock market analysis tool offers comprehensive technical indicators and metrics explained succinctly in simple to understand terms which prove invaluable for beginners who desire to acquire trading knowledge without getting overwhelmed by complex data sets. 
 
 
-**Target Audience:**
+### Target Audience:
 
 
 In contrast seasoned investors looking to diversify their portfolios demand advanced trading options that can help them make informed decisions based on long term analytics or emerging trends unearthed through deep dive technical investigations using sophisticated tools within the toolkit. Apart from individual investors other finance professionals like financial advisors, stockbrokers, or industry analysts require powerful tools that can help them assess various stocks' performances over time while predicting future trends accurately. 
@@ -37,7 +38,7 @@ The open-source stock market analysis tool provides an all-encompassing solution
 To conclude this versatile toolkit caters extensively to a vast range of potential users comprising both beginners and experts besides related professionals looking for credible data sources backed by robust analytics when investing in stocks with confidence. 
 	
 
-**Technical Details:**
+### Technical Details:
 
 
 Investing in stocks may seem complicated - but not with our customized tool that caters to anyone regardless of their investment background! So how does it achieve this? By employing several technological solutions in collecting, analyzing, and visualizing voluminous amounts of historic stock market information- let's delve deeper into how it does so!
@@ -53,7 +54,7 @@ In addition to capitalizing on these popular programming languages' strengths th
 For the content itself, having technical indicators in the dashboard would be a must to have such as having the Relative Strength Index, Moving Average Convergence/Divergence, Exponential Moving Averages, and much more. All these calculations should be done inside the algorithm itself so users can see these indicators to influence their decisions within the stock market. The main point of this dashboard is to more accurately predict the way in which the market will move buy seeing the public’s sentiment within the chosen time frame. Also, news is a big part of the stock market so having a live feed of news and if it is positive or negative is important to have on the dashboard because news can affect the stock price so highlighting the news to be green or red can be a great indicator for investors to have so they can always stay up to date in the economy.  
 
 
-**Strategy:**
+### Strategy:
 
 
 Our decision to make this application open source is aimed at promoting the same spirit of collaboration and innovation within the stock market analysis community. 
@@ -67,7 +68,7 @@ As a team committed to openness, we prioritized open-source software when develo
 Lastly dedication towards building community fosters an environment where regular updates are provided through teamwork between developers along with encouragement for collaborative contributions; thus, ensuring an ongoing successful open-source project. Our approach in developing an open-source stock market analysis tool is tailored towards creating a comprehensive yet user friendly platform that provides reliable insights into market behavior. 
 
 
-**Code Access:**
+### Code Access:
 
 
 Additionally, we support collaborative contribution by promoting open-source software tools aimed at fostering community participation across networks worldwide. In upholding our commitment towards encouraging community participation in our projects growth process we will make the source code for the Stock Market Analysis tool available publicly via trusted code hosting platforms like GitHub. However, anyone wishing to participate should abide by licensing and contribution guidelines. By sharing access through transparency with developers globally who can suggest improvements based on real time insights from using the tool themselves creates an opportunity trail to fix bugs while enhancing functionality speed and accuracy observations on trends in market behavior. 
@@ -75,7 +76,7 @@ Additionally, we support collaborative contribution by promoting open-source sof
 By opening the source code of any project - particularly one like Stock Market Analysis - people can work collectively towards creating an improved platform that's both dependable and robust. As project leaders manage it continuously by accepting contributions from developers and conducting reviews along with testing before merging these updates into the primary system that meets with applicable guidelines. In summary- giving access to codes promotes transparency through open dialogue amongst users collaborating on new ideas ultimately leading to innovative techniques refining this very tool we've built together. 
 
 
-**Comparison To Other Tools:**
+### Comparison To Other Tools:
 
 
 An added benefit of this open-source stock market analysis tool compared to others present in markets lies in its accessibility as opposed to proprietary products which limit its user base based on financial constraints. Being an open-source software program means stock market analysis' constant updating through a team-led approach keeping track with the latest technology trends is its forte. This sets apart similar options existing today as they lack the extensive feature range alongside a convenient user interface provided by this unique software suite - factors crucial for successful usage without significant technical knowledge requirements. 
@@ -85,7 +86,7 @@ Most interestingly, befitting both beginner-level stakeholders as well as season
 Moreover, each user can configure their preferences, presenting an additional edge of customization. Anyone seeking an innovative alternative to traditional stock analysis tools can breathe easy - there’s now a high performing open-source option available. Built on cutting edge technology and loaded with premium features this user-friendly tool gives investors greater control over their market research and analytical capabilities. Whether you're looking at performance metrics or feature complexity there are many reasons why you might be drawn towards an open-source stock analysis tool like this one. 
 
 
-**License:**
+### License:
 
 
 However, one element that should never be overlooked is licensing agreement. In line with industry best practices for open-source projects worldwide office the MIT License. 
@@ -95,13 +96,13 @@ This means access to code is unrestricted while authors retain rights of distrib
  By using this license scheme developers are encouraged to innovate further on top of existing code without reaping any legal consequences along the way - enabling organizations everywhere reap huge financial rewards from utilizing these new but developed technologies in their own projects right away! As an open-source stock market analysis tool developer group we opted to release our product under the permissive MIT license which enables other coders to create derivative versions consistent with specific rules detailed in said license. Choosing this option ensured ease of adoption leading to broader user access resulting in increased exposure while preserving perpetual availability without cost or restrictions on changes made by others. We see great utility in utilizing an MIT License given its compatibility with similar licenses and its emphasis on liberty regarding usage/modification rights. 
 
 
-**Community Events:**
+### Community Events:
 
 
 It’s important we acknowledge that community events play a vital role within our project ensuring significant progress toward its objectives Creation of a robust community around the tool is one of the primary objectives of the project team who plan various initiatives for this purpose. One such measure includes conducting hackathons for developers looking to collaborate in ways that enhance existing capabilities or introduce new ones into the system effectively. To make it accessible even more widely across geographies there will be both online and in-person modes available. It should be noted that webinars planned alongside workshops tailored explicitly towards increasing awareness about different aspects-features feedback collection from users concerned publicly through organizers themselves. These sessions would be open to everyone interested in utilizing this resource platform. Meanwhile, social media networks like GitHub, the Reddit page & Twitter handles would connect enthusiasts who could progressively engage and interact with each other. 
 
 
-**Sustainability:**
+### Sustainability:
 
 
 An often-overlooked aspect of open-source projects is their ability to survive long term use without compromising on functionality or relevance. Sustainability refers to an open-source projects' capacity for continuous development and maintenance while keeping up with industry standards. 
@@ -122,7 +123,7 @@ Our stock market analysis tools sustainability will play a significant role in e
 6. Continuous Improvement Is Key: Ensuring sustainability requires investing time & resources towards continuous improvement – whether by fixing bugs or addressing technical issues making tweaks/updates regularly or upgrading functionality & remaining current with relevant market analysis trends that keep your target audience at attention.
 
 
-**Roadmap:**
+### Roadmap:
 
 
 Developing an open-source stock market analysis tool is always progressing there are different areas where one could focus on:
@@ -134,7 +135,7 @@ Interactive visualizations that are customizable are one effective method toward
 There’s no denying that the open-source stock market analysis software stands as an impressive development within modern day investment markets. It provides investors with personalized insights for analyzing historical trends concerning stocks - allowing us all to make informed choices regarding our investments on those platforms. 
   
 
-**Impact:**
+### Impact:
 
 
 One key advantage of this flexible software platform is that allows users access from all backgrounds: granting equal opportunities within economic activities while democratizing crucial financial data processing technologies across platforms through its open-source approach. 
@@ -144,7 +145,7 @@ To summarize, this tool represents a fundamental step towards promoting financia
 With robust technology equipped with visualization capabilities we can process extensive volumes of fiscal information that enables us to provide practical insights via user friendly analytics tools. 
 
 
-**Conclusion:**
+### Conclusion:
 
 
 Our open-source approach allows developers/users/investors across various disciplines worldwide to contribute towards improving the tools effectiveness concerning evolving market trends under an MIT license with utmost accountability towards preserving its integrity. In addition, community collaboration has been instrumental in contributing towards sustainable growth within tech communities as we continue fostering engagements through organizing meetups/conferences/workshops aimed at bringing together individuals from diverse backgrounds sharing knowledge/best practices building new relationships furthering collaboration/open innovation. Sustainability remains a top priority for us; hence we maintain an innovative culture focused on implementing cutting edge technological advancements capable of adapting seamlessly according to prevailing market trends while keeping up to date with the latest market developments. With attention focused on promoting sustainability practices such as limiting waste production, reducing carbon emissions while encouraging ethical behavior characterized by social responsibility during development processes; this project aims towards meeting these noble objectives. 
@@ -154,7 +155,7 @@ The open-source stock market analysis tool emerges as a groundbreaking initiativ
 It's a vital instrument expected to play an increasingly critical role within finance spheres concerning future trends present in investment operations.
 
 
-**References:**
+### References:
 
 Chen, J. (2023, April 4). Technical analysis of stocks and Trends. Investopedia. https://www.investopedia.com/terms/t/technical-analysis-of-stocks-and-trends.asp 
 
