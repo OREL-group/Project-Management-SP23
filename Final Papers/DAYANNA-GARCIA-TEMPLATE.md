@@ -1,15 +1,9 @@
-## TITLE
-Name, Semester, link to personal website.
-
-
-### Introduction/Headings    
-
-[Comment_1]: <> (begin your text here)
-
+## Language Learning Application
+Dayanna Garcia, Spring 2023
 
 [Comment_2]: <> (An example of a reference in paper text, cite in Reference list -- see Comment 8)
 
-#### Subheading
+#### Abstract
 [Comment_3]: <> (begin your text here)
 
 | ![](https://user-images.githubusercontent.com/38323286/233691025-55deb1db-3e35-4589-8c55-4f859f8e41cd.jpg) | 
@@ -18,7 +12,7 @@ Name, Semester, link to personal website.
 
 [Comment_4]: <> (Insert Figure with caption here)
 
-#### Subheading     
+#### Purpose
 
 [Comment_5]: <> (begin your text here)
 
