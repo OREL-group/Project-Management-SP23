@@ -1,7 +1,7 @@
 ## Quiz 2: Introduction to Issue Management
 To be completed in one week (for Spring 2023, March 30). 
 
-You will working on [the Quiz #2 project board](https://github.com/orgs/OREL-group/projects/14/views/1) within our organization. Please use the main repository and not your fork, as all issues should be on the same board. As an external collaborator, you should have access. If not, please [let me know](mailto:balicea@illinois.edu).
+You will working on [the Quiz #2 project board](https://github.com/orgs/OREL-group/projects/14) within our organization. Please use the main repository and not your fork, as all issues should be on the same board. As an external collaborator, you should have access. If not, please [let me know](mailto:balicea@illinois.edu).
 
 ### Instructions    
 1) create one issue per category on the Quiz #2 board. You may create more if necessary.  
@@ -19,7 +19,7 @@ You will working on [the Quiz #2 project board](https://github.com/orgs/OREL-gro
 * refer to the lecture slides from the March 23 lecture for more information.
 
 
-4) create a final issue through the [repository issue template](https://github.com/OREL-group/Project-Management/issues/new/choose). Please follow the prompts to answer questions about your issue. 
+4) create a final issue through the [repository issue template](https://github.com/OREL-group/Project-Management-SP23/issues/new/choose). Please follow the prompts to answer questions about your issue. 
 
 * this should be a good first issue for your final project (make an attempt to answer this, even if you have not worked out the details yet).
 
