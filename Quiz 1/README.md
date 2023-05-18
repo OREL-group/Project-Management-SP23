@@ -3,11 +3,11 @@ __To be completed in one week (for Spring 2023, February 9).__
 
 __1)__ before the assignment is issued on February 2, I will invite you to be a collaborator in the Orthogonal Research and Education Lab organization. Please [e-mail the instructor](mailto:balicea@illinois.edu) with your Github handle (URL of your account after the ".com/") in the body. Please check your e-mail (Main and Spam folders) for the invite and accept. If you cannot find the invite, contact me and I will resend.
 
-__2)__ Contribute to __NAMEFILE.md__ using the GUI interface: write your name to [NAMEFILE.md](https://github.com/OREL-group/Project-Management/blob/main/Quiz%201/NAMEFILE.md) beneath the dotted line.
+__2)__ Contribute to __NAMEFILE.md__ using the GUI interface: write your name to [NAMEFILE.md](https://github.com/OREL-group/Project-Management-SP23/blob/main/Quiz%201/NAMEFILE.md) beneath the dotted line.
 
 * make a note describing your changes to the file in the extended description window, then click "commit changes".
 
-__3)__ Create a fork of [OREL-group/project-management](https://github.com/OREL-group/Project-Management). Once you do so, I should be able to see your fork.
+__3)__ Create a fork of [OREL-group/project-management](https://github.com/OREL-group/Project-Management-SP23). Once you do so, I should be able to see your fork.
 
 __4)__ Navigate to the "Quiz #1" directory and look inside.
 
